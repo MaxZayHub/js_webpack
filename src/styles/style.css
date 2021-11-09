@@ -1,0 +1,13 @@
+.container {
+  max-width: 1000px;
+  background-color: lightblue;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: red;
+}
